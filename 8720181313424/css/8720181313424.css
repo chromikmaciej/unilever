@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.a8720181313424 {
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  text-decoration: solid;
+  max-width: 970px;
+  min-height: max-content;
+}
+
+.b8720181313424 {
+  display: block;
+  font-size: 26px;
+  text-align: center;
+}
+
+.c8720181313424 {
+  display: block;
+  padding-top: 5%;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: solid;
+}
+
+.d8720181313424 {
+  display: block;
+  text-align: left;
+  font-size: 18px;
+  text-decoration: double, solid;
+  padding: 1%;
+}
+
+.gora {
+  background-color: #2f3334;
+  background-image: url(/8720181313424/img/left_top.png),
+    url(/8720181313424/img/main_top.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-bottom: 1px;
+  height: 61vw;
+  max-height: 600px;
+  min-height: 550px;
+}
+
+.butelki {
+  background-color: #343536;
+  background-image: url(/8720181313424/img/butelki.png),
+    url(/8720181313424/img/tlo_pod_recykling.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 0% 100%;
+  margin-bottom: 1px;
+  height: 61vw;
+  max-height: 600px;
+  min-height: 580px;
+  color: aliceblue;
+
+  padding-top: 1em;
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+.lazienka {
+  background-color: #2e3132;
+  background-image: url(/8720181313424/img/tlo_lazienka.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-bottom: 1px;
+  padding-left: 4%;
+  height: 61vw;
+  max-height: 600px;
+  min-height: 530px;
+}
+
+.pasek {
+  background-image: url(/8720181313424/img/green_belt.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+  height: 53px;
+  line-height: 55px;
+  text-align: center;
+  max-width: 50%;
+  min-width: 300px;
+  padding-right: 8rem;
+  display: inline-block;
+}
+
+.tekstnapasku {
+  color: aliceblue;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.textright {
+  text-align: right;
+}
+
+.textduzybialy {
+  color: aliceblue;
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 50px;
+}
+
+.textzielony {
+  color: #77bc23;
+}
+
+.textsrednibialy {
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  font-weight: 900;
+  text-decoration: solid;
+  line-height: 25px;
+}
+
+.kwadraty {
+  background-color: black;
+}
