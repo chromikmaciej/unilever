@@ -56,7 +56,6 @@
 }
 
 .lab {
-  background-color: #fff;
   background-color: #cfe3db;
   background-image: url(/8720181222443/img/tlo2.png);
   background-size: 100%;
@@ -90,6 +89,7 @@
 }
 
 .opis {
+  text-align: center;
   padding-left: 6%;
   padding-right: 6%;
   font-weight: 600;
@@ -141,40 +141,36 @@
   font-weight: 600;
   padding-bottom: 1em;
 }
+.butelki__tlo {
+  background: linear-gradient(#fff 1%, #c0c0c0 50%);
+}
 
 .butelki {
-  background-image: url(/8720181222443/img/tlo3a.png);
+  background-image: url(/8720181222443/img/tlo4b.png),
+    url(/8720181222443/img/tlo3a.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  max-height: 663px;
-  max-width: 1000px;
-}
-
-.butelki_tlo {
-  background-image: linear-gradient(#fff, #bfbfbf);
-  min-height: 1230px;
-}
-
-.butelki_gora {
-  min-height: 610px;
+  height: 1280px;
+  min-height: fit-content;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .butelki__dol {
-  background-image: url(/8720181222443/img/tlo4.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 61vw;
-  max-height: 600px;
-  margin-left: 15px;
-  margin-right: 15px;
+  padding-top: 60%;
+  max-height: 900px;
+  min-height: 900px;
+  height: 61vh;
   text-align: center;
 }
 
 .butelki__dol--naglowek {
-  padding-top: 65px;
+  padding-top: 60px;
   color: #446e23;
   font-size: 32px;
   font-weight: 900;
+  padding-left: 3rem;
+  padding-right: 20px;
 }
 
 .butelki__dol--punkty {
@@ -182,6 +178,8 @@
   font-size: 22px;
   font-weight: 900;
   text-align: left;
+  margin-left: 2rem;
+  margin-right: 4rem;
 }
 
 .butelki__dol--punkty--odstepy {
